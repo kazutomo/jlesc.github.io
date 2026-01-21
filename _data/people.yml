@@ -683,6 +683,15 @@ conejero_f:
   email: marc.casas@bsc.es
   homepage:
 
+bahannon_c:
+  sur_name: Bahannon
+  given_name: Connor
+  affiliation: anl
+  position: postbac
+  topics:
+  email: cbahannon@anl.gov
+  homepage:
+
 cortes_t:
   sur_name: Cortes
   given_name: Toni
