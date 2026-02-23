@@ -701,6 +701,16 @@ costan_a:
   email: alexandru.costan@inria.fr
   homepage: https://team.inria.fr/kerdata/alexandru-costan/
 
+bohannon_c:
+  sur_name: Bohannon
+  given_name: Connor
+  affiliation: anl
+  position: postbac
+  topics: architecture research
+  email: cbohannon@anl.gov
+  homepage:
+  
+
 constantinescu_e:
   sur_name: Constantinescu
   given_name: Emil
